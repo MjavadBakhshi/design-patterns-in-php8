@@ -1,0 +1,16 @@
+{
+    "name": "mjb/design-patters",
+    "description": "Design patterns examples",
+    "authors": [
+        {
+            "name": "Mohammad javad",
+            "email": "mjavad.bakhshi@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "DesignPatterns\\": "patterns/"
+        }
+    },
+    "require": {}
+}
